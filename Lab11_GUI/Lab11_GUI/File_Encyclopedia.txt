@@ -1,0 +1,5 @@
+location5,asd,111,111,asd
+location4,asd,123,123,far
+location7,size7,7,7,vision7
+location3,size3,3,3,vision3
+location2,size2,2,2,vision2
